@@ -1,3 +1,3 @@
 program hello
-  print *, 'ohayou!'
+  print *, 'konnitiha!'
 end program hello
